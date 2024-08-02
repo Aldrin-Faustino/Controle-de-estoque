@@ -2,9 +2,8 @@
 <div>
 <h1>📝 Este projeto foi realizado durante a matéria de Algoritmos II  do curso Análise e Desenvolvimento de Sistemas (ADS) na instituição SENAC. </h1>
 <p>O objetivo do trabalho é de criar um sistema de controle, no qual tem a função de criar, ler, atualizar e deletar itens em um estoque. Nele foi possível aprender diversos métodos disponíveis na linguagem C#, 
-bem como a criação e implementação de funções aplicando estruturas de repetição como FOR, WHILE e IF, também praticando matriz e a distinção de variáveis e funções nos diferentes arquivos com intuito em especificação e proteção do código, é importante ressaltar que apesar de 
-possuir as propriedades get  e set ou a criação de novas instâncias a programação orientada a objeto não está presente no projeto, pois no momento de sua realização não era o enfoque da matéria, tão pouco guardar as informações em um banco de dados, por isso que,
-ao fechar o programa as informações não são salvas, no entanto os resultados do programa foram satisfatório e de grande evolução na linguagem.</p>
+bem como a criação e implementação de funções aplicando estruturas de repetição como FOR, WHILE e IF, também praticando matriz e a distinção de variáveis e funções nos diferentes arquivos com intuito em especificação e proteção do código, é importante ressaltar que apesar de possuir as propriedades get  e set ou a criação de novas instâncias a programação orientada a objeto não está presente no projeto, pois no momento de sua realização não era o enfoque da matéria, tão pouco guardar as informações em um banco de dados, por isso que,
+ao fechar o programa as informações não são salvas, no entanto os resultados do programa foram satisfatório e de grande evolução para a compreensão na linguagem.</p>
 </div>
 
 ##
